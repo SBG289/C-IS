@@ -11,7 +11,6 @@ void factorial()
 	int x, i;
 	double f = 1;
 
-	
 		cout << "Input Factorial: ";
 		cin >> x;
 		cout << endl;
@@ -25,17 +24,7 @@ void factorial()
 
 		cout << "Factorial is equal to: " << f << endl;
 		cout << endl;
-
-		/*for (i = 1; i <= x; i++)
-		{
-			f = f * i;
-		}
-		cout << endl;
-		cout << "Factorial is equal to: " << f << endl;
-
-		if (x = 0) break;*/
 	
-
 }
 
 	int main()
